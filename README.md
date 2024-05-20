@@ -1,18 +1,17 @@
-lab-assignment 
 
-# Developed BY 
+# Module -: Application Frameworks SE3040 
 
 # Name : Gunatilleke M. B. D. S | IT No -: IT21321436
  
 <h2>Instructions</h2>
 <ul>
   <li>Clone the project, open the folder in the command prompt and give the command "code ."</li>
-  <li>To Install all the Node Modules: </li>
-  ``` npm install ```
+  <li>To Install all the Node Modules: npm install </li>
   <li>Specific Node Modules used : express, mongoose, bodyParser, cors, dotenv, jsonwebtoken, bcrypt jest</li>
   <li>Set the correct path to start the project: cd Backend</li>
-  <li>To Start the project: </li>
-  ``` npm start ```
+  <li>To Start the project: npm start</li>
+ 
+
 </ul>
  
 <h2>Testing Instructions</h2>
